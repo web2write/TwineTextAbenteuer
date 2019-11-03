@@ -18,3 +18,17 @@ Text adventure templates in Twine can be used in various school and extracurricu
 - To simulate and “play through” historical and moral decisions
 - or existing “free” text holdings to “gamify”, for example in a “hackathon for open cultural data” https://codingdavinci.de/about/
 - for inter-active “text-remixing” as a basic method for creating OER-Resources
+
+
+## Anleitung zur Veröffentlichung von Twine-Stories
+Die Schritte zur Veröffentlichung sind:
+ein neues Repository erstellen (z.B. meintwine)
+unter 'Settings' 'GithubPages' aktivieren.
+unter Code die HTML-Datei neu hochladen.
+den Namen der Datei in 'index.html' ändern.Wenn Du nun auf den unter 'Settings' bei GithubPages angegebenen Link klickst, erscheint dort Dein Twine (manchmal kann das wenige Minuten dauern).
+
+Quelle: 
+Nele Hirsch: https://github.com/eBildungslabor/twinetutorialhttps://ebildungslabor.github.io/twinetutorial/
+https://ebildungslabor.github.io/twinetutorial/
+Lizenz: Dieses Online-Tutorial wurde im eBildungslabor erstellt. Es ist im Interesse einer möglichst einfachen Weiternutzung unter **CC0** veröffentlicht. Du kannst es somit ohne Lizenzhinweis beliebig weiternutzen, verändern und anpassen.
+https://creativecommons.org/publicdomain/zero/1.0/deed.de
