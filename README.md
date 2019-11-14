@@ -1,15 +1,26 @@
-# TwineTextAbenteuer
+# Textadventures schreiben gegen Hate Speech in Twine
+Diese Twine Stories sind in foldendem Rahmen entstanden:
+Der Aktionstag gegen Hassbotschaften / für Toleranz und Respekt findet im Freizeitheim Vahrenwald statt: 180 Schülerinnen und Schüler erarbeiten in Workshops Handlungsmöglichkeiten und loten Aktionsräume aus.
+In der Lernoase des Freizeitheims finden parallel dazu spezielle Workshops mit und zu digitalen Medien statt: Apps und VR-Technologien ermöglichen eine Sensibilisierung zum Thema Anti-Mobbing. Mit dem Open Source Tool Twine werden interaktive Text-Adventures produziert, in denen verzwickte Mobbing-Situationen „durchgespielt“ werden können.
+Weitere Informationen:
+http://mygatekeeper.de/dhp/
+
+Das übergreifende Projekt dazu:
+
+# Texte zu Abenteuern machen -> offene Text Adventure Vorlagen in Twine entwickeln
+...Texte umschreiben ... mit Texten spielen ... eine interaktive Story entwickeln .. Texte spiel-bar machen ..
 Texte zu Abenteuern machen -> offene Text Adventure Vorlagen in Twine entwickeln /  Text adventure templates in Twine for productive text remix processes
 
 Detaillierte Beschreibung, Quellen, Links, Beispiele / se more details
 https://hackmd.io/@web2write/remixTXT
 
 ## Zusammenfassung
+… Text-Adventure Vorlagen in Twine können in verschiedenen schulischen und außerschulischen Kontexten eingesetzt werden für produktive Text-Remix Prozesse:
 - etwa um aktuelle medienpolitische Themen interaktiv zu bearbeiten: … wie Datensouveränität, Social Bots, Künstliche Intelligenz, nachhaltige Technik-Nutzung, Hacken, freie Software, Hassbotschaften, Cyber-Mobbing …
-- Historische und moralische Entscheidungen zu simulieren und “durchzuspielen”- 
-- … oder bestehende “freie” Text-Bestände zu “gamifizieren”, etwa in einem "Hackathon für offene Kulturdaten"
+- Historische und moralische Entscheidungen zu simulieren und “durchzuspielen”
+… oder bestehende “freie” Text-Bestände zu “gamifizieren”, etwa in einem "Hackathon für offene Kulturdaten"
 (https://codingdavinci.de/about/index-de.html)
-- interaktives “Remixen” von Texten - als eine Basis-Operation bei der Erstellung von OER-Materialien :-)
+interaktives “Remixen” von Texten - als eine Basis-Operation bei der Erstellung von OER-Materialien :-)
 
 ## Summary:
 Text adventure templates in Twine can be used in various school and extracurricular contexts for productive text remix processes:
