@@ -5,6 +5,13 @@ In der Lernoase des Freizeitheims finden parallel dazu spezielle Workshops mit u
 Weitere Informationen:
 http://mygatekeeper.de/dhp/
 
+Wenn Du diese Story selbst in twine weiterentwickeln möchtest, lade die Datei herunter unter
+https://github.com/web2write/TwineTextAbenteuer
+… und importiere sie auf der Webseite
+http://twinery.org
+… direkt im Browser unter “use it online” :-)
+
+
 Das übergreifende Projekt dazu:
 
 # Texte zu Abenteuern machen -> offene Text Adventure Vorlagen in Twine entwickeln
